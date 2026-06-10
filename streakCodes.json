@@ -1,0 +1,288 @@
+[
+  {
+    "key": "XXX",
+    "values": [
+      {
+        "key": "stats_classic",
+        "gameNumero": 100,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_quote",
+        "gameNumero": 100,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_ability",
+        "gameNumero": 100,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_emoji",
+        "gameNumero": 100,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_splash",
+        "gameNumero": 100,
+        "nbGuesses": 3
+      }
+    ]
+  },
+  {
+    "key": "kuba",
+    "values": [
+      {
+        "key": "stats_classic",
+        "gameNumero": 1360,
+        "nbGuesses": 5
+      },
+      {
+        "key": "stats_quote",
+        "gameNumero": 1360,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_ability",
+        "gameNumero": 1360,
+        "nbGuesses": 1
+      },
+      {
+        "key": "stats_emoji",
+        "gameNumero": 1360,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_splash",
+        "gameNumero": 1360,
+        "nbGuesses": 3
+      }
+    ]
+  },
+  {
+    "key": "tachee",
+    "values": [
+      {
+        "key": "stats_classic",
+        "gameNumero": 1333,
+        "nbGuesses": 5
+      },
+      {
+        "key": "stats_quote",
+        "gameNumero": 1333,
+        "nbGuesses": 5
+      },
+      {
+        "key": "stats_ability",
+        "gameNumero": 1333,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_emoji",
+        "gameNumero": 1333,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_splash",
+        "gameNumero": 1333,
+        "nbGuesses": 5
+      }
+    ]
+  },
+  {
+    "key": "dodita",
+    "values": [
+      {
+        "key": "stats_classic",
+        "fromGameNumero": 1354,
+        "toGameNumero": 1361,
+        "nbGuesses": 4
+      },
+      {
+        "key": "stats_quote",
+        "fromGameNumero": 1354,
+        "toGameNumero": 1361,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_ability",
+        "fromGameNumero": 1354,
+        "toGameNumero": 1361,
+        "nbGuesses": 1
+      },
+      {
+        "key": "stats_emoji",
+        "fromGameNumero": 1354,
+        "toGameNumero": 1361,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_splash",
+        "fromGameNumero": 1354,
+        "toGameNumero": 1361,
+        "nbGuesses": 6
+      }
+    ]
+  },
+  {
+    "key": "florea",
+    "values": [
+      {
+        "key": "stats_classic",
+        "fromGameNumero": 1357,
+        "toGameNumero": 1361,
+        "nbGuesses": 5
+      },
+      {
+        "key": "stats_quote",
+        "fromGameNumero": 1357,
+        "toGameNumero": 1361,
+        "nbGuesses": 4
+      },
+      {
+        "key": "stats_ability",
+        "fromGameNumero": 1357,
+        "toGameNumero": 1361,
+        "nbGuesses": 1
+      },
+      {
+        "key": "stats_emoji",
+        "fromGameNumero": 1357,
+        "toGameNumero": 1361,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_splash",
+        "fromGameNumero": 1357,
+        "toGameNumero": 1361,
+        "nbGuesses": 3
+      }
+    ]
+  },
+  {
+    "key": "agus",
+    "values": [
+      {
+        "key": "stats_classic",
+        "gameNumero": 1311,
+        "nbGuesses": 4
+      }
+    ]
+  },
+  {
+    "key": "azerite",
+    "values": [
+      {
+        "key": "stats_classic",
+        "fromGameNumero": 1355,
+        "toGameNumero": 1363,
+        "nbGuesses": 4
+      },
+      {
+        "key": "stats_quote",
+        "fromGameNumero": 1355,
+        "toGameNumero": 1363,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_ability",
+        "fromGameNumero": 1355,
+        "toGameNumero": 1363,
+        "nbGuesses": 1
+      },
+      {
+        "key": "stats_emoji",
+        "fromGameNumero": 1355,
+        "toGameNumero": 1363,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_splash",
+        "fromGameNumero": 1355,
+        "toGameNumero": 1363,
+        "nbGuesses": 2
+      }
+    ]
+  },
+  {
+    "key": "victor",
+    "values": [
+      {
+        "key": "stats_splash",
+        "gameNumero": 1363,
+        "nbGuesses": 4
+      }
+    ]
+  },
+  {
+    "key": "lucas",
+    "values": [
+      {
+        "key": "stats_classic",
+        "gameNumero": 1364,
+        "nbGuesses": 5
+      },
+      {
+        "key": "stats_quote",
+        "gameNumero": 1364,
+        "nbGuesses": 6
+      },
+      {
+        "key": "stats_ability",
+        "gameNumero": 1364,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_emoji",
+        "gameNumero": 1364,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_splash",
+        "gameNumero": 1364,
+        "nbGuesses": 4
+      }
+    ]
+  },
+  {
+    "key": "jamieandjayfred",
+    "values": [
+      {
+        "key": "stats_classic",
+        "fromGameNumero": 1374,
+        "toGameNumero": 1398,
+        "nbGuesses": 5
+      }
+    ]
+  },
+  {
+    "key": "alice",
+    "values": [
+      {
+        "key": "stats_classic",
+        "gameNumero": 1407,
+        "nbGuesses": 4
+      },
+      {
+        "key": "stats_quote",
+        "gameNumero": 1407,
+        "nbGuesses": 5
+      },
+      {
+        "key": "stats_ability",
+        "gameNumero": 1407,
+        "nbGuesses": 3
+      },
+      {
+        "key": "stats_emoji",
+        "gameNumero": 1407,
+        "nbGuesses": 2
+      },
+      {
+        "key": "stats_splash",
+        "gameNumero": 1407,
+        "nbGuesses": 6
+      }
+    ]
+  }
+]
